@@ -1,8 +1,6 @@
-||googlesyndication.com^$important
-||googleadservices.com^$important
-||doubleclick.net^$important
-||2mdn.net^$important
+||googlesyndication.com^$important,script
+||googleadservices.com^$important,script
+||doubleclick.net^$important,script
+||2mdn.net^$important,script
 ||invitemedia.com^$important
-||www-google-analytics.l.google.com^$important
-||partnerad.l.doubleclick.net^$important
-||tpc.googlesyndication.com^$important
+||www-google-analytics.l.google.com^$important,script
