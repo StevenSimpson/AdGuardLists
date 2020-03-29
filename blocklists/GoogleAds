@@ -1,8 +1,8 @@
-googlesyndication.com
-googleadservices.com
-doubleclick.net
-2mdn.net
-invitemedia.com
-www-google-analytics.l.google.com
-partnerad.l.doubleclick.net
-tpc.googlesyndication.com
+||googlesyndication.com^$important
+||googleadservices.com^$important
+||doubleclick.net^$important
+||2mdn.net^$important
+||invitemedia.com^$important
+||www-google-analytics.l.google.com^$important
+||partnerad.l.doubleclick.net^$important
+||tpc.googlesyndication.com^$important
